@@ -14,3 +14,6 @@ lalu sesuaikan tampilan sesuai soal
 
 4. Mengubah {person} ke {person.name} untuk memanggil object person
 ![Output](gambar/4.png)
+
+5. Hasilnya sama, menurut saya cuma memasukkan ke dalam objek urlnya
+![Output](gambar/4.png)

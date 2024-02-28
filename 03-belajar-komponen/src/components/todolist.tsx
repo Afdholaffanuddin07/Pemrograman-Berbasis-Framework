@@ -1,7 +1,10 @@
 import Image from "next/image";
 
+const baseUrl = 'https://i.imgur.com';
 const person = {
     name: 'Gregorio Y. Zara',
+    imageId: '7vQD0fP',
+  imageSize: 's',
     theme: {
       backgroundColor: 'black',
       color: 'pink'
