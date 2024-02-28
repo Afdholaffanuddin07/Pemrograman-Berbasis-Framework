@@ -5,3 +5,5 @@ Jawaban
 lalu sesuaikan tampilan sesuai soal
 
 ![Output](gambar/1.png)
+2. Membuat Template layout di folder baru, sehingga tinggal memanggil function tersebut dan hasilnya sama dengan langkah sebelumnya
+![Output](gambar/2.png)
