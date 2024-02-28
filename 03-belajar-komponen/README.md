@@ -17,3 +17,10 @@ lalu sesuaikan tampilan sesuai soal
 
 5. Hasilnya sama, menurut saya cuma memasukkan ke dalam objek urlnya
 ![Output](gambar/4.png)
+
+6. Memanggil setiap bagian url dengan memasukkan ke dalam setiap objek, lalu memanggilnya melalui nama objek tersebut, sehingga memudahkan untuk memakainya di setiap file
+
+memanggilnya dengan memberi $ di setiap variabelnya
+![Output](gambar/6.1.png)
+hasilnya
+![Output](gambar/6.2.png)
