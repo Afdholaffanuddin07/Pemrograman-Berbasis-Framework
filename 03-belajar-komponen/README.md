@@ -24,3 +24,10 @@ memanggilnya dengan memberi $ di setiap variabelnya
 ![Output](gambar/6.1.png)
 hasilnya
 ![Output](gambar/6.2.png)
+
+7. membuat file baru untuk membuat tempalet url untuk memanggil image
+
+buat src/utils/utils
+![Output](gambar/7.png)
+hasil
+![Output](gambar/7.1.png)
