@@ -11,3 +11,6 @@ lalu sesuaikan tampilan sesuai soal
 
 3. Mengkonvert teks html ke jsx menggunkan konvert vscode
 ![Output](gambar/3.png)
+
+4. Mengubah {person} ke {person.name} untuk memanggil object person
+![Output](gambar/4.png)
