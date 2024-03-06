@@ -8,3 +8,7 @@ Menambahkan alert ke element tombol
 ![Output](image/2.png)
 ![Output](image/3.png)
 ![Output](image/4.png)
+
+Praktikum 2
+Menambahkan element button dengan sebuah parameter
+![Output](image/5.png)
