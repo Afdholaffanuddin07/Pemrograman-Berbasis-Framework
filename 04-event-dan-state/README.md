@@ -10,5 +10,14 @@ Menambahkan alert ke element tombol
 ![Output](image/4.png)
 
 Praktikum 2
+
 Menambahkan element button dengan sebuah parameter
 ![Output](image/5.png)
+
+Praktikum 3
+- Langkah 1
+Menambahkan parent dan child alert
+child
+![Output](image/6.png)
+parent
+![Output](image/7.png)
