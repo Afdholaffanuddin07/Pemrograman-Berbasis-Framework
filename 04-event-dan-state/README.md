@@ -23,3 +23,10 @@ parent
 ![Output](image/7.png)
 - Langkah 2
 Menambah event stop propagazition
+
+Praktikum 4 
+
+Menambahkan data image dummy lalu menampilkanya dengan element button dan bisa di slide
+
+![Output](image/8.png)
+
