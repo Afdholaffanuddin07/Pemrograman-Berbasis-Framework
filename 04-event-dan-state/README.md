@@ -21,3 +21,5 @@ child
 ![Output](image/6.png)
 parent
 ![Output](image/7.png)
+- Langkah 2
+Menambah event stop propagazition
