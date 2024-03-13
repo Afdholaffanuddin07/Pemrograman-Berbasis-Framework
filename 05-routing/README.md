@@ -33,3 +33,11 @@ blog1
 ![Output](image/11.png)
 blog2
 ![Output](image/12.png)
+
+Todo 2
+products/[productId]/review
+![Output](image/13.png)
+products/[productId]/review/1
+![Output](image/14.png)
+products/[productId]/review/2
+![Output](image/14.png)

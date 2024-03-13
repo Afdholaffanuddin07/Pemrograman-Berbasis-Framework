@@ -4,7 +4,7 @@ type Props = {
     }
   }
   
-  export default function ProductDetails({ params }: Props) {
+  export default function BlogDetails({ params }: Props) {
     return (
           <h1>blog ke  {params.blogId}</h1>
     )
