@@ -2,6 +2,8 @@
 import Tombol_1, { Tombol_2, Tombol_3 } from "@/components/button";
 import Gallery from "@/components/gallery";
 import Form,{Form_2} from "@/components/form";
+import Accordion from "@/components/according";
+import Messenger from "@/components/chat";
 
 
 export default function Home(){
@@ -25,7 +27,10 @@ export default function Home(){
           <br></br>
           <Form/>
           <Form_2 />
-          
+        <br /><br />
+        <Accordion />
+        <br /><br />
+        <Messenger />
         
       
     
