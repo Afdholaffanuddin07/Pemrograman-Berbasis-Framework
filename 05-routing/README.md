@@ -14,3 +14,14 @@ firstblog
 ![Output](image/4.png)
 secondblog
 ![Output](image/5.png)
+
+3. Praktikum 3
+Membuat dynamic routing
+products
+![Output](image/6.png)
+id 1
+![Output](image/7.png)
+id 2
+![Output](image/8.png)
+id 3
+![Output](image/9.png)
