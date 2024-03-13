@@ -7,7 +7,7 @@ membuat folder profile lalu menampilkan biodata
 ![Output](image/2.png)
 
 2. Praktikum 2
-Membuat routing bersarang
+Membuat routing bersarangn pada halaman blog
 blog
 ![Output](image/3.png)
 firstblog
