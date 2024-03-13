@@ -40,4 +40,17 @@ products/[productId]/review
 products/[productId]/review/1
 ![Output](image/14.png)
 products/[productId]/review/2
-![Output](image/14.png)
+![Output](image/15.png)
+
+4. Praktikum 4
+Menggunakan nav link, sehingga tinggal mengklik otomatis merouting
+Home
+![Output](image/16.png)
+Profile
+![Output](image/17.png)
+About
+![Output](image/18.png)
+Blog
+![Output](image/19.png)
+Products
+![Output](image/20.png)
