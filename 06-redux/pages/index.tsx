@@ -1,8 +1,3 @@
-import Head from "next/head";
-import Image from "next/image";
-import { Inter } from "next/font/google";
-import styles from "@/styles/Home.module.css";
-
 export default function Home() {
   return (      
     <div className="container">
@@ -18,7 +13,7 @@ export default function Home() {
       </div>
       <div  className="modal fade"
             id="exampleModal"
-            tabIndex="-1"
+            
             aria-labelledby="exampleModalLabel"
             aria-hidden="true">
         <div className="modal-dialog">
